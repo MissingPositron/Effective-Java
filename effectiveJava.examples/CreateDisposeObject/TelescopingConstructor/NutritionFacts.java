@@ -1,4 +1,4 @@
-package CreateDisposeObject.TelescopingConstructor;
+package createDisposeObject.telescopingConstructor;
 
 // Telescoping constructor pattern - does not scale well !
 

@@ -1,4 +1,4 @@
-package CreateDisposeObject.JavaBeans;
+package createDisposeObject.javaBeans;
 
 // JavaBeans Pattern - allows inconsistency, mandates mutability
 public class NutritionFacts {
